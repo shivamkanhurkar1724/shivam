@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">College App</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment
+
+    </string>
+    <string name="start">Start</string>
+
+    <string name="close">Close</string>
+
+
+    <string name="about_college">ICCS has been accredited with ‘A’ grade by “National Accreditation and Assessment Council” (NAAC) and "An Autonomous Status by UGC, New Delhi The well-architected campus is spread over 5 acres with independent departments, spacious classrooms, well equipped library with a vast collection of books, latest journals and periodicals and a huge collection of CD’s, laboratory with all new acquainted technical conﬁgurations. A well designed auditorium having capacity of 540 persons with all new technical equipments is the main highlight in which various programs i.e. academic and cultural are carried out, hostels for girls and boys having capacity of approx 690 students. Sports facilities are also availed by students which comprises of a sports room in which Table Tennis, Carrom, Chess, Bow and Arrow and various other games are played by students.</string>
+
+
+</resources>

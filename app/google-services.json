@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "945600490439",
+    "firebase_url": "https://indira-college-app-default-rtdb.firebaseio.com",
+    "project_id": "indira-college-app",
+    "storage_bucket": "indira-college-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945600490439:android:9d6e911c27b87da25b87e2",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945600490439-sr0jqtuouk3abknssb9rq7imkat6l8g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxoyDt-fSKpC8GDHtb67qwBFzA5Ee9fo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945600490439-sr0jqtuouk3abknssb9rq7imkat6l8g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945600490439:android:3aed636af1e957e65b87e2",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945600490439-sr0jqtuouk3abknssb9rq7imkat6l8g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxoyDt-fSKpC8GDHtb67qwBFzA5Ee9fo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945600490439-sr0jqtuouk3abknssb9rq7imkat6l8g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
